@@ -3,10 +3,10 @@
     /* shortcut m.0  and padding p.0*/
     padding: 0;
 }
-ok done
-
-
 .sidebar{
     background-color: red;
 
+}
+.main{
+    background-color: yellow;
 }
